@@ -4,7 +4,6 @@ public class EvenOdd
     {
 
         int numToExamine = 13;
-        int examinedNumber;
 
         if (numToExamine % 2 == 0)
             System.out.println(numToExamine + " is even");
